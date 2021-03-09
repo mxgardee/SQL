@@ -1,0 +1,7 @@
+id|first_name|last_name|school|hire_date|salary
+1|Hugh|Hefner|F.D. Roosevelt HS|2000-10-30|3600200
+2|Nelson|Madela|F.D. Roosevelt HS|2011-02-11|36200
+3|Donald|Trump|Johannesburg Secondary school|2013-11-30|36200
+4|Jacob|Zuma|No school|2012-12-23|36200
+5|Tom|andJerry|Boomerang|2011-04-04|36200
+6|Jhonny|English|Universal studios|2001-05-30|36200
